@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Computer Science Engineering student specialized in Artificial Intelligence and Machine Learning -AIML.<br><br>Passionate about developing innovative, logical, and efficient solutions with a strong foundation in software engineering. <br><br>I am currently learning DSA<br><br>Good at python , figma .<br><br> 
+Aspiring Computer Science Engineering student specialized in Artificial Intelligence and Machine Learning -AIML.<br><br>Passionate about developing innovative, logical, and efficient solutions with a strong foundation in software engineering. <br><br>I am currently learning DSA.<br><br>Good at python , figma .<br><br>Reach me out at sahanalekhu08@gmail.com<br><br>
 
 
 ## 🌐 Socials:
